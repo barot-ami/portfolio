@@ -1,0 +1,31 @@
+[
+    {
+      "role": "Web Development Intern",
+      "organisation": "JCasp Technologies",
+      "startDate": "Feb, 2023",
+      "endDate": "August, 2023",
+      "experiences": ["Worked on component library",
+      "Helped create UI components",
+    "Responsive website creation"],
+      "imageSrc": "history/jcaspLogo.png"
+    },
+    {
+      "role": "Web Development Intern",
+      "organisation": "Edureka",
+      "startDate": "jan, 2022",
+      "endDate": "Aug, 2022",
+      "experiences": ["Learned JS, React JS, Bootstrap", "Made duplicate designs of known websites like zomato"],
+      "imageSrc": "history/edureka.png"
+    },
+    {
+      "role": "Web Development Intern",
+      "organisation": "SoftCoding Solutions",
+      "startDate": "Jun, 2022",
+      "endDate": "Jun, 2022",
+      "experiences": [
+        "Learned to work with HTML and CSS", "Basic website structure"
+        
+      ],
+      "imageSrc": "history/softcoding.png"
+    }
+  ]
